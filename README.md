@@ -9,7 +9,7 @@
 - Compass (draw 1/2"-5" diameter circles in 1/2" increments)
 - English Ruler (0-3", 1/10" increments)
 - Metric Ruler (0-76mm, 1mm increments)
-- Keychain Hole
+- Hole for keychain or binder
 
 ## Making a PROtractor
 
