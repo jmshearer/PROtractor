@@ -11,5 +11,7 @@ Putting the "Pro" in PROtractor.
 
 ## Making a PROtractor
 
-1) Load the appropiate AI file in Illustraotr
-2) Etch on a laser etcher.  Note: Flipping horizontally is recommended such that the etched side is the side that touches the paper to reduce parallax.
+1) Load the appropiate AI file in Illustrator (or use the appropiate PDF)
+2) Etch on a laser etcher.
+
+*Note: Flipping horizontally is recommended such that the etched side is the side that touches the paper to reduce parallax.*
