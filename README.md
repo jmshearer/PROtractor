@@ -1,5 +1,5 @@
 # The PROtractor
-Putting the "Pro" in PROtractor.
+**Putting the "Pro" in PROtractor.**  Why do protractors only list degrees but most of our math formulas use radians?  What's the relationship to radians?  The PROtractor is here to the rescue!  This simple protractor layout for a laser etcher (or just printing on plain paper) includes degrees, radians, and a unit circle marked into 3.14 sections.
 
 ## Features
 
