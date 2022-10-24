@@ -7,7 +7,7 @@
 - Radian Marks (0, π/6, π/4, π/3, π/2, 2π/3, 3π/4, 5π/6, π)
 - Unit Circle
 - Compass (draw 1/2"-5" diameter circles in 1/2" increments)
-- English Ruler (0-3", 1/10" increments)
+- English Ruler (0-3", 1/16" increments)
 - Metric Ruler (0-76mm, 1mm increments)
 - Hole for keychain or binder
 
