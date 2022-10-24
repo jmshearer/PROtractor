@@ -4,7 +4,7 @@
 ## Features
 
 - **Degree Marks** (0°-180° and 180°-0°)
-- **Radian Marks** (0, π/6, π/4, π/3, π/2, 2π/3, 3π/4, 5π/6, π)
+- **Radian Marks** (0, π/6, π/4, 1, π/3, π/2, 2, 2π/3, 3π/4, 5π/6, 3, π)
 - **Unit Circle**
 - **Compass** (draw 1/2"-5" diameter circles in 1/2" increments)
 - **English Ruler** (0-3", 1/16" increments)
