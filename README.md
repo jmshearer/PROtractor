@@ -25,7 +25,7 @@
 ## Why the PROtractor?
  - Makes the relationship between degrees and radians obvious
  - Makes the relationship between the unit circle and radians obvious
- - Built-in "compass" makes it easy to draw circles (for fun, draw a circle and derive π using the compass, ruler, and a piece of string!)
+ - Built-in "compass" makes it easy to draw circles (for fun, draw a circle and derive π using only the PROtractor and a piece of string!)
  - Compact, simple-to-use protractor, is easy to carry
  - A Ticonderoga pencil in the hexagonal hole makes a great fidget toy
 
