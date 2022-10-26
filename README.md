@@ -5,7 +5,7 @@
 
 - **Degree Marks** - 1° increments from 0°-180° and 180°-0°
 - **Radian Marks** - 0.1 radian increments plus π/6, π/4, π/3, π/2, 2π/3, 3π/4, 5π/6, π
-- **Unit Circle**
+- **Unit Circle** - 1 radian wedge clearly marked
 - **Compass** - Draw 1/2"-5" diameter circles in 1/2" increments
 - **English Ruler** - 0-3", 1/16" increments
 - **Metric Ruler** - 0-76mm, 1mm increments
@@ -14,9 +14,13 @@
 
 ## Making a PROtractor
 
-1) Load the appropiate AI file in Illustrator (or use the appropiate PDF)
-2) Etch on a laser etcher.
+### Printer
+1) Load the appropiate AI file in Illustrator (or use the appropaite PDF)
+2) Print the image, being sure to set printer scale to 100%
 
+### Laser Cutter
+1) Load the appropiate AI file in Illustrator (or use the appropiate PDF)
+2) Etch onto an acrylic sheet on a laser cutter/etcher
 *Note: Flipping horizontally is recommended such that the etched side is the side that touches the paper to reduce parallax.*
 
 ## Send some love (in the form of coffee)
