@@ -2,7 +2,6 @@
 **Putting the "Pro" in PROtractor.**  Why do protractors only list degrees but most of our math formulas use radians?  What's the relationship to radians?  The PROtractor is here to the rescue!  This simple protractor layout for a laser etcher (or just printing on plain paper) includes degrees, radians, and a unit circle marked into 3.14 sections.
 
 ## Features
-
 - **Degree Marks** - 1° increments from 0°-180° and 180°-0°
 - **Radian Marks** - 0.1 radian increments plus π/6, π/4, π/3, π/2, 2π/3, 3π/4, 5π/6, π
 - **Unit Circle** - 1 radian wedge clearly marked
@@ -22,6 +21,13 @@
 1) Load the appropiate AI file in Illustrator (or use the appropiate PDF)
 2) Etch onto an acrylic sheet on a laser cutter/etcher
 *Note: Flipping horizontally is recommended such that the etched side is the side that touches the paper to reduce parallax.*
+
+## Why the PROtractor?
+ - Makes the relationship between degrees and radians obvious
+ - Makes the relationship between the unit circle and radians obvious
+ - Built-in "compass" makes it easy to draw circles (for fun, draw a circle and derive π using the compass, ruler, and a piece of string!)
+ - Compact, simple-to-use protractor, is easy to carry
+ - A Ticonderoga pencil in the hexagonal hole makes a great fidget toy
 
 ## Send some love (in the form of coffee)
 <a href="https://www.buymeacoffee.com/jmshearer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
