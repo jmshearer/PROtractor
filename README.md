@@ -28,7 +28,7 @@
  - Makes the relationship between the unit circle and radians clear
  - Built-in "compass" makes it easy to draw circles (for fun, draw a circle and derive π using only the PROtractor and a piece of string!)
  - Compact, simple-to-use protractor, is easy to carry
- - A #2 Ticonderoga pencil in the hexagonal hole makes a great fidget toy (pro tip: scale the hole to a height of 0.29 to accomodate a Blackwing 602)
+ - A #2 Ticonderoga pencil in the hexagonal hole makes a great fidget toy (pro tip: scale the hole to a height of 0.29" to accommodate a Blackwing 602)
 
 ## Send some love (in the form of coffee)
 <a href="https://www.buymeacoffee.com/jmshearer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
